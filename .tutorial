@@ -1,0 +1,9 @@
+: 1484310444:0;l
+: 1484310457:0;npm i create-react-app
+: 1484310471:0;npm i -g create-react-app
+: 1484310492:0;create-react-app react-app
+: 1484310610:0;rm -rf node_modules
+: 1484310612:0;cd react-app
+: 1484310640:0;rm react-app/.dir_bash_history
+: 1484310695:0;npm start
+: 1484310718:0;cd react-app
